@@ -1,4 +1,5 @@
 #Write a program to read lines from a text file and print the words which are less than 5 characters.
+#I don't know file concepts.I will learn and then implement sir.
 
 s=input("enter any string:")
 c=0
